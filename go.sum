@@ -1,0 +1,4 @@
+github.com/google/gousb v1.1.2 h1:1BwarNB3inFTFhPgUEfah4hwOPuDz/49I0uX8XNginU=
+github.com/google/gousb v1.1.2/go.mod h1:GGWUkK0gAXDzxhwrzetW592aOmkkqSGcj5KLEgmCVUg=
+github.com/mikelpsv/gousb v0.0.0-20230316115141-a7fce2642f66 h1:2zdD9uX+4eeUTj7c9OpMBLZ3haOV7B3dQFU7AiXTaPU=
+github.com/mikelpsv/gousb v0.0.0-20230316115141-a7fce2642f66/go.mod h1:Sr20vhff3BhypT5RqwMxCaYnMMUueyHujTh6g7o76AE=
